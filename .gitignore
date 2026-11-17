@@ -1,0 +1,10 @@
+# Windows temporary files
+~$*
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+
+# Office lock files
+~$*.xlsx
+~$*.docx
